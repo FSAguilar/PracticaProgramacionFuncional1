@@ -30,12 +30,14 @@ object Practica {
     println(extraerPares(2468))
     println(extraerPares(102034))
     println(extraerPares(908172))
+    // El enunciado está mal, es "082" en lugar de "9082"
 
     println("\nTAIL RECURSIVE\n")
     println(sumarDigitosPares(583246))
     println(sumarDigitosPares(13579))
     println(sumarDigitosPares(2468))
     println(sumarDigitosPares(102030))
+    // El enunciado está mal, es 2 en lugar de 6
     println(sumarDigitosPares(8))
     println()
     println(contarMayusculas("HolaMundoScala"))
@@ -49,6 +51,7 @@ object Practica {
     println(contarCambiosParidad(2468))
     println(contarCambiosParidad(13579))
     println(contarCambiosParidad(52841))
+    // El enunciado está mal, es 2 en vez de 3
     println()
     println(segundoMayor(58329))
     println(segundoMayor(7416))
